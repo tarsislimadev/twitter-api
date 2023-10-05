@@ -1,1 +1,1 @@
-sudo apt install -y espeak ffmpeg
+docker-compose run $@ npm i
