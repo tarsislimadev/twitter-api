@@ -6,8 +6,8 @@ Twitter API
 
 ```
 DATABASE=./data
-API_TOKEN=
-
+API_KEY_SECRET=
+API_KEY=
 ```
 
 ### license
